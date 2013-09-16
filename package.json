@@ -1,0 +1,38 @@
+{
+  "name": "hubot-edda",
+  "version": "0.1.0",
+  "description": "Edda API wrapper for Hubot with utility functions for launching Edda instances.",
+  "main": "index.coffee",
+  "dependencies": {
+    "hubot": ">= 2.4.0",
+    "async": ">=0.2.9",
+    "aws-sdk": "=1.5.0"
+  },
+  "engines": {
+    "node": ">=0.10.15",
+    "npm": ">=1.3.5"
+  },
+  "homepage": "https://github.com/imperialwicket/hubot-edda",
+  "author": {
+    "name": "Nicholas Whittier",
+    "url": "http://imperialwicket.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/imperialwicket/hubot-edda.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imperialwicket/hubot-edda/issues"
+  },
+  "license": {
+    "type": "Apache License, Version 2.0",
+    "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
+  },
+  "keywords": [
+    "amazon",
+    "edda",
+    "aws",
+    "ec2",
+    "netflixoss"
+  ]
+}
